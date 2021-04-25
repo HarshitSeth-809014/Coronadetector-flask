@@ -12,6 +12,6 @@ This is a random data and do not take it seriously.
 You have to enter your Body temperature or Fever value, Age, Body Pain, Difficulty in Breathing and Runny nose. You wil be redirected to another page and get your probability there.
 
 ## Author
-Name - Harshit Seth
-Age - 13 years
+Name - Harshit Seth\
+Age - 13 years\
 Class - 8
